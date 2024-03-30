@@ -1,0 +1,19 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: black;
+    background: linear-gradient(to right, #89e9b9, #1adf7c);
+    }
+    .body-button {
+        background-color: bisque;
+        box-shadow: black;
+        display: flex;
+        flex-direction: row;
+        padding: 5px;
+        margin: 40px;
+        margin-top: 10px;
+        width: px;
+        height: px;
+        }
