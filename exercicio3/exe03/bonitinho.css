@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Codystar:wght@300;400&family=Lemon&family=Risque&family=Sonsie+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Codystar:wght@300;400&family=Fascinate+Inline&family=Lemon&family=Risque&family=Sonsie+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Codystar:wght@300;400&family=Fascinate+Inline&family=Lemon&family=Miltonian+Tattoo&family=Risque&family=Sonsie+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Codystar:wght@300;400&family=Fascinate+Inline&family=Lemon&family=Miltonian+Tattoo&family=Risque&family=Shantell+Sans:ital,wght@0,300..800;1,300..800&family=Sonsie+One&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: #1C1C1C;
+}
+
+.cabecalho-imagem {
+    height: 150px;
+
+}
+
+.cabecalho {
+    border-bottom: 4px solid #1C1C1C;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    background: linear-gradient(to right, #b63c64, #e7e5e6);
+    border-style: solid;
+    padding: 10px;
+    color: #1C1C1C;
+}
+
+.conteudo-principal-imagem {
+    height: 300px;
+}
+
+.rodape-item-imagem {
+    width: 50px;
+}
+
+body {
+    background: linear-gradient(to right, #FFC0CB, #F08080);
+}
+
+.cabecalho-menu-item {
+    font-family: "Lemon", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    background-color: burlywood;
+    border: none;
+    height: 30px;
+    box-shadow: 4px 4px 4px;
+    border-radius: 50px;
+}
+
+.cabecalho-menu {
+    display: flex;
+    gap: 100px;
+}
+
+.conteudo {
+    border-top: 0px solid #00FF7F;
+    margin-bottom: 48px;
+}
+
+.cabecalho-menu-item:hover {
+    color: #1C1C1C;
+    font-size: 22px;
+}
+
+.conteudo-principal {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.conteudo-principal-texto {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+}
+
+.conteudo-secundario-titulo3 {
+    font-family: "Miltonian Tattoo", serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-bottom: 48px;
+
+}
+
+.conteudo-secundario-paragrafo {
+    font-family: "Shantell Sans", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+.conteudo-principal-texto-botao {
+    background-color: khaki;
+    width: 240px;
+    height: 60px;
+    border: none;
+    box-shadow: 4px 5px 4px black;
+    border-radius: 40px;
+    color: #1C1C1C;
+    font-size: 18px;
+
+}
+
+.conteudo-secundario-titulo3 {
+    border-top: 4px solid #000000;
+    padding-top: 20px;
+    font-family: "Shantell Sans", cursive;
+    font-optical-sizing: auto;
+    font-weight: 600px;
+    font-style: normal;
+    font-size: 40px;
+    margin-bottom: 16px;
+}
+.rodape-texto-escrito {
+    font-family: "Lemon", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+    margin-right: 20px;
+    color: #e7e5e6;
+}
+.rodape-item-imagem {
+    width: 224px;
+}
+.rodape {
+    background-color: #000000;
+}
